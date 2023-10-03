@@ -1,7 +1,7 @@
 # Hello World!
 
 Sou a Gislaine, mas todos me chamam de Gi. 
-Sou uma mulher lgbt e autista nível 1 de suporte em transição de carreira, atualmente focada em iniciar meu caminho na área de TI como programadora.
+Sou uma mulher lgbt e autista nível 1 de suporte em transição de carreira, atualmente focada em iniciar meu caminho na área de TI como desenvolvedora Back-End.
 
 <img src="https://media.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" alt="your_alternative_text" width="150" height="150" loop=infinite>
 
